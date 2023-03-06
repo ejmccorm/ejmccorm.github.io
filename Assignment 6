@@ -40,7 +40,16 @@
 
         <p>
           
-          Assignment content here.
+          <iframe title="Anti-Asian Hate Crimes Since 2016" aria-label="Interactive line chart" id="datawrapper-chart-wZRV1" src="https://datawrapper.dwcdn.net/wZRV1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="724" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++)t[r].contentWindow===e.source&&(t[r].style.height=e.data["datawrapper-height"][a]+"px")}}))}();
+
+          This line graph shows how hate crimes of AntiAsian variety have exploded since COVID arrived on the scene. Almost every single county listed above saw an increase in Anti-Asian hate crimes after the year 2019, however those numbers are far scarcer in the 2016-2018 time period.
+
+          By Eric McCormick
+
+          Data by NY Open Data
+
+          https://data.ny.gov/Public-Safety/Hate-Crimes-by-County-and-Bias-Type-Beginning-2010/6xda-q7ev
+</script>
 
         </p>
 
