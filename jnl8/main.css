@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: darkgray;
+  background-color: #328da8;
   font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -21,8 +21,8 @@ img {
 
 .caption {
   font-size: 14px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
   margin-top: 5px
 }
 
