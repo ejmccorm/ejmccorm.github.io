@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 70rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+header {
+  background-color: #34e8eb;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 50%;
+
+
+  padding: 10px;
+}
+
+.caption {
+  font-size: 14px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px
+}
+
+blockquote {
+font-family: times;
+font-size: 24px;
+font-style: italic;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
