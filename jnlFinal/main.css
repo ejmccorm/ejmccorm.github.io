@@ -5,8 +5,12 @@ body {
   margin-right: auto;
 }
 
+html {
+  background-color:#697794;
+}
+
 header {
-  background-color:#328da8;
+  background-color:#4781f5;
   font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -29,6 +33,7 @@ img {
 }
 
 h1 {
+  font-family: serif;
   font-style: italic;
   font-size: 40px;
   padding-left: 10px;
@@ -47,6 +52,7 @@ h2 {
 }
 
 p {
+  font-family: monospace;
   font-size: 20px;
   padding-left: 15px;
   padding-right: 15px;
