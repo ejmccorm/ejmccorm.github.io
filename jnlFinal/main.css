@@ -10,7 +10,7 @@ html {
 }
 
 header {
-  background-color:#4781f5;
+  background-color:#697794;
   font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -20,6 +20,7 @@ header {
 }
 
 img {
+  background-color:#697794 ;
  margin-right: 15px;
  margin-left: 15px;
   width: 80%;
@@ -33,6 +34,7 @@ img {
 }
 
 h1 {
+  background-color:#697794;
   font-family: serif;
   font-style: italic;
   font-size: 40px;
@@ -43,6 +45,8 @@ h1 {
 }
 
 h2 {
+  background-color:#697794;
+  font-family: serif;
   font-size: 24px;
   margin-bottom: 1.5rem;
   padding-left: 10px;
@@ -52,6 +56,7 @@ h2 {
 }
 
 p {
+  background-color:#697794;
   font-family: monospace;
   font-size: 20px;
   padding-left: 15px;
