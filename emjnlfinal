@@ -1,0 +1,51 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+
+<font><link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet"></font>
+
+<link rel="stylesheet" href="main.css">
+
+	<title>JNL Final Project EM</title>
+</head>
+<body>
+	<header>Diabetes Presence In the USA</header>
+	<div class="mainimg">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Images_at_Freedom_Park_09.jpg">
+		<p class="caption" Courtesy Panoramic Studio/LANDPROCESS 
+		The park is designed to work with water, not against it.>
+	</p></div>
+		<h1>DObsesity and Diabetes have been casuing havoc in America for decades, But why? </h1>
+		<h2>By Eric McCormick
+
+</h2>
+<p><strong>Placeholder text</strong></p>
+
+<div class="otherimg">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/In-N-Out_Burger_cheeseburgers.jpg">
+		<p class="caption" Jef Poskanzer from Berkeley, California, USA, CC BY 2.0 https://creativecommons.org/licenses/by/2.0>
+	</p></div>
+
+The obesity epidemic first began in the US around 1980 and has only become even more threatening of an issue facing Americans since then. The epidemic has roots in a wide variety of American culture, including exercise, work life, and economic factors, however it is easily tracked to the change in American diet that began at this time and has stayed in place ever since. This change meant that Americans were consuming more ultra-processed foods (UPFs) than ever before.  UPF’s are essentially foods that are filled with fats, sugars, salts, and have a high calorie content. But why did the American diet change? This largely has to do with the continual movement towards a more consumer branded lifestyle in the USA which began in the 1950’s, the mass implementation of snacks such as candy bars and potato chips, as well as the move to fast food restaurants and easy-made-meals is now reaping its effects on the country, but it was hitting harder in some places than others.
+
+	<iframe title="US States with Highest Percentage of 18+ Diabetes cases (Diagnosed)" aria-label="Range Plot" id="datawrapper-chart-d4Hcp" src="https://datawrapper.dwcdn.net/d4Hcp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="420" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+	</script>
+
+
+Looking at this chart, we can see the 15 US states with the highest percentage of diagnosed diabetes cases in their population, with West Virginia leading the pack. The US median of diagnosed diabetes cases in a state's population is 9.8% and ever rising, with 27/50 states in the US having a population with at least 9.8%. But why do some states, especially states like West Virginia, New Mexico, Arkansas, and Kentucky, all of which rank in the bottom half of population for US states. The reason for this is in fact the amount of places to get food like this. 
+
+	<iframe title="Number of McDonalds Stores per 100,000; Top 15 States:" aria-label="Bar Chart" id="datawrapper-chart-UOoWh" src="https://datawrapper.dwcdn.net/UOoWh/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="452" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+	</script>
+
+This bar graph shows the number of McDonald's restaurants, one of America's most popular fast food restaurants, per 100,000 in the state's population. Now when the two charts are analyzed together, we can see that 7/15 of the states with the highest percentage of diagnosed diabetes cases, also had the most McDonald’s restaurants per 100,000 people in the population. Places like McDonalds sell more UPFs than other restaurants and stores, and McDonalds employee Cade Cahoon doubled down on that. Cahoon seemingly believes that the food sold by McDonalds and its fellow fast food establishments is a major cause of obesity, not just around the US, but even in the customers he himself serves, “I, personally, don’t even eat the food we serve. After having cooked and been around here, I just see what it does to the people who eat it everyday”. Cahoon also mentioned the presence of things such as oils, butter, and other foods with high fat, sugar, and calorie content. Given the presence of these ingredients, all key parts of UPFs,  it is easy to see why many states that have more McDonalds, also have higher diabetes diagnose rates. 
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
